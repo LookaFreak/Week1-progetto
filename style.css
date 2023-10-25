@@ -1,0 +1,91 @@
+body{
+    margin: auto;
+    width: 700px;
+}
+
+
+
+
+
+#divlogo{
+   display: flex;
+   justify-content: center;
+}
+
+#logo{
+    height: 50px;
+    margin-top: 10px;
+    max-width: 500px;
+}
+
+#divslogan{
+    background-color: #fdfbf1;
+    border-top: solid #ffd877;
+    padding-bottom: 5px;
+    margin-top: 20px;
+    font-family: Georgia;
+}
+
+
+#divslogan p {
+    color: #087878;
+    text-align: center;
+
+}
+
+
+.bold{
+    text-transform: uppercase;
+}
+
+
+h1{
+    text-align: center;
+
+}
+
+
+#pizza{
+    height: 550px;
+    width: 700px;
+    
+}
+
+.pizza{
+    color: grey;
+    text-align: center;
+}
+
+#Futuro{
+    text-transform: uppercase;
+    color: orangered;
+    margin-bottom: 1px;
+}
+
+#link{
+    border: 0cm;
+}
+
+.border{
+  border: solid 0.1mm;
+    border-color: aquamarine;
+}
+
+
+
+
+
+#bordosin{
+    border-left: solid 1px;
+    border-color: orange;
+    padding-left: 10px;
+}
+
+
+#lista{
+font-size: 15px;
+}
+
+#lista2{
+    font-size: 15px;
+}
